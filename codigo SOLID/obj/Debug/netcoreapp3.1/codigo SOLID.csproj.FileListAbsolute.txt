@@ -1,0 +1,11 @@
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\codigo SOLID\bin\Debug\netcoreapp3.1\codigo SOLID.exe
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\codigo SOLID\bin\Debug\netcoreapp3.1\codigo SOLID.deps.json
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\codigo SOLID\bin\Debug\netcoreapp3.1\codigo SOLID.runtimeconfig.json
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\codigo SOLID\bin\Debug\netcoreapp3.1\codigo SOLID.runtimeconfig.dev.json
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\codigo SOLID\bin\Debug\netcoreapp3.1\codigo SOLID.dll
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\codigo SOLID\bin\Debug\netcoreapp3.1\codigo SOLID.pdb
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\codigo SOLID\obj\Debug\netcoreapp3.1\codigo SOLID.csprojAssemblyReference.cache
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\codigo SOLID\obj\Debug\netcoreapp3.1\codigo SOLID.AssemblyInfoInputs.cache
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\codigo SOLID\obj\Debug\netcoreapp3.1\codigo SOLID.AssemblyInfo.cs
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\codigo SOLID\obj\Debug\netcoreapp3.1\codigo SOLID.dll
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\codigo SOLID\obj\Debug\netcoreapp3.1\codigo SOLID.pdb
